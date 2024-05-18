@@ -8,6 +8,7 @@ teach you the pre-requisite technical knowledge to get started in cyber security
 
 ## My Experience:
 
+In this learning course, I learned about offensive and defensive security. I learned about networking and I was introduced to several vulnerabilites that are everywhere, such as spoofing. Additionally, I was also introduced to Linux and Windows and was able to get hands-on experience with these OS.
 
 ## Practice:
 ### This section will go over some of my hands on experience for this course:
@@ -55,4 +56,7 @@ View the website on this task and inject HTML so that a malicious link to http:/
 
 
 ## Certificate:
+
+![image](https://github.com/RaulPreciado/Pre-Security/assets/122322695/c752e154-e84d-49d6-b5a3-f0f90c907682)
+
 
