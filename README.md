@@ -8,8 +8,7 @@ teach you the pre-requisite technical knowledge to get started in cyber security
 
 ## My Experience:
 
-In this learning course, I learned about offensive and defensive security. I learned about networking and I was introduced to several vulnerabilites that are everywhere, such as spoofing. Additionally, I was also introduced to Linux and Windows and was able to get hands-on experience with these OS.
-
+In this learning course, I learned about offensive and defensive security. I learned about networking and I was introduced to several vulnerabilites that are everywhere, such as spoofing. Additionally, I was also introduced to Linux and Windows and was able to get hands-on experience with these Operating Systems.
 ## Practice:
 ### This section will go over some of my hands on experience for this course:
 
