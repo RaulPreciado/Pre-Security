@@ -54,6 +54,27 @@ View the website on this task and inject HTML so that a malicious link to http:/
 <img width="468" alt="image" src="https://github.com/RaulPreciado/Pre-Security/assets/122322695/135db0a9-38ba-4d0c-a863-86ea3ee9c3e2">
 
 
+7. LINUX FUNDAMENTALS
+
+ Learn how to use the Linux operating system, a critical skill in cyber security.
+
+-Look for the apache2 logs on the deployable Linux machine
+
+-get the IP address of the user who visited the site?
+
+-What file did they access?
+
+<img width="468" alt="image" src="https://github.com/RaulPreciado/Pre-Security/assets/122322695/d4a9ef56-081f-402f-9e32-2ee59598cec1">
+
+
+8. WINDOWS FUNDAMENTALS
+
+Access to Windows and it's security controls that help with identifying, exploiting and defending Windows.
+
+<img width="832" alt="image" src="https://github.com/RaulPreciado/Pre-Security/assets/122322695/3990b23b-a100-4fc2-9940-6973c41bad74">
+
+
+
 
 ## Certificate:
 
